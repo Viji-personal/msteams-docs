@@ -59,7 +59,7 @@ Use the Teams Toolkit to create your first project:
 
 1. Enter a suitable name for your app, like `helloworld`. The name of the app must consist only of alphanumeric characters.  Press **Enter** to continue.
 
-Your Teams app is created within a few seconds.
+   Your Teams app is created within a few seconds.
 
 # [Command line](#tab/cli)
 
